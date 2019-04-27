@@ -1,0 +1,100 @@
+|abase|v.|lower; degrade; humiliate.|Anna expected to have to curtsy to the King of Siam; when told to cast herself down on the ground before him, however, she refused to abase herself, abasement, N.|0|0|
+|abash|v.|embarrass.|He was not at all abashed by her open admiration.|0|0|
+|abate||v. subside or moderate.|Rather than leaving immediately, they waited for the storm to abate.|0|0|
+|abbreviate|v.|shorten.|Because we were running out of time, the lecturer had to abbreviate her speech.|0|0|
+|abdicate|v.|renounce; give up.|When Edward VIII abdicated British throne, he surprised the entire world.|0|0|
+|aberrant|||ADJ. abnormal or deviant. Given the aberrant nature of the data, we came to doubt the validity of the entire experiment.|0|0|
+|aberration|N.|deviation from the expected or the normal; mental irregularity or disorder.|Survivors of a major catastrophe are likely to exhibit aberrations of behavior because of the trauma they have experienced.|0|0|
+|abet|v.|assist, usually in doing something wrong; encourage.|She was unwilling to abet him in the swindle he had planned.|0|0|
+|abeyance|||N. suspended action. The deal was held in abeyance until her arrival.|0|0|
+|abhor|v.|detest; hate.|She abhorred all forms of bigotry, abhorrence, N.|0|0|
+|abject|ADJ.|wretched; lacking pride.|On the streets of New York the homeless live in abject poverty, huddling in doorways to find shelter from the wind.|0|0|
+|abjure|v.|renounce upon oath.|He abjured his allegiance to the king, abjuration, N.|0|0|
+|ablution|N.|washing.|His daily ablutions were accompanied by loud noises that he humorously labeled "Opera in the Bath."|0|0|
+|abnegation|N.|renunciation; self-sacrifice.|Though Rudolph and Duchess Flavia loved one another, their love was doomed, for she had to wed the king; their act of abnegation was necessary to preserve the kingdom.|0|0|
+|abolish|v.|cancel; put an end to.|The president of the college refused to abolish the physical education requirement, abolition, N.|0|0|
+|abominable|ADJ.|detestable; extremely unpleasant; very bad.|Mary liked John until she learned he was also dating Susan; then she called him an abominable young man, with abominable taste in women.|0|0|
+|abominate|v.|loathe; hate.|Moses scolded the idol worshippers in the tribe because he abominated the custom.|0|0|
+|aboriginal|ADJ., N.|being the first of its kind in a region; primitive; native.|Her studies of the primitive art forms of the aboriginal Indians were widely reported in the scientific journals, aborigine, N.|0|0|
+|abortive|ADJ.|unsuccessful; fruitless.|Attacked by armed troops, the Chinese students had to abandon their abortive attempt to democratize Beijing peacefully, abort, v.|0|0|
+|abrasive|ADJ.|rubbing away; tending to grind down.|Just as abrasive cleaning powders can wear away a shiny finish, abrasive remarks can wear away a listener's patience, abrade, v.|0|0|
+|abridge|v.|condense or shorten.|Because the publishers felt the public wanted a shorter version of War and Peace, they proceeded to abridge the novel.|0|0|
+|abrogate|v.|abolish.|The king intended to abrogate the decree issued by his predecessor.|0|0|
+|abscission|N.|cutting off; separation.|When a flower or leaf separates naturally from the parent plant, this process is called abscission.|0|0|
+|abscond||v. depart secretly and hide.|The teller who absconded with the bonds went uncaptured until some one recognized him from his photograph on America's Most Wanted.|0|0|
+|absolute|ADJ.|complete; totally unlimited; certain.|Although the King of Siam was an absolute monarch, he did not want to behead his unfaithful wife without absolute evidence of her infidelity.|0|0|
+|absolve|v.|pardon (an offense),|The father confessor absolved him of his sins, absolution, N.|0|0|
+|abstain|v.|refrain; withhold from participation.|After considering the effect of alcohol on his athletic performance, he decided to abstain from drinking while he trained for the race.|0|0|
+|abstemious|||ADJ.  sparing  in eating  and  drinking; temperate.  Concerned  whether  her vegetarian  son's abstemious diet provided him with sufficient protein, the worried mother pressed food on him.|0|0|
+|abstinence|N.|restraint from eating or drinking.|The doctor recommended total abstinence from salted foods, abstain, v.|0|0|
+|abstract|ADJ.|theoretical; not concrete; nonrepresentational.|To him, hunger was an abstract concept; he had never missed a meal.|0|0|
+|abstruse|ADJ.|obscure; profound; difficult to understand.|Baffled by the abstruse philosophical texts assigned in class, Dave asked Lexy to explain Kant's Critique of Pure Reason.|0|0|
+|abusive|ADJ.|coarsely insulting; physically harmful.|An abusive parent damages a child both mentally and physically.|0|0|
+|abut|v.|border upon; adjoin.|Where our estates abut, we must build a fence.|0|0|
+|abysmal|ADJ.|bottomless.|His arrogance is exceeded only by his abysmal ignorance.|0|0|
+|abyss|N.|enormous chasm; vast, bottomless pit.|Darth Vader seized the evil emperor and hurled him into the abyss.|0|0|
+|academic|ADJ.|related to a school; not practical or directly useful.|The dean's talk about reforming academic policies was only an academic discussion: we knew little, if anything, would change.|0|0|
+|accede|v.|agree.|If I accede to this demand for blackmail, I am afraid that I will be the victim of future demands.|0|0|
+|accelerate|v.|move faster.|In our science class, we learn how falling bodies accelerate.|0|0|
+|accessible|ADJ.|easy to approach; obtainable.|We asked our guide whether the ruins were accessible on foot.|0|0|
+|accessory|N.|additional object; useful but not essential thing.|She bought an attractive handbag as an accessory for her dress, also ADJ.|0|0|
+|acclaim|v.|applaud; announce with great approval.|The sportscasters acclaimed every American victory in the Olympics and decried every American defeat, acclamation, N.|0|0|
+|acclimate|v.|adjust to climate or environment; adapt.|One of the difficulties of our present air age is the need of travelers to acclimate themselves to their new and often strange environments.|0|0|
+|acclivity|N.|sharp upslope of a hill.|The car could not go up the acclivity in high gear.|0|0|
+|accolade|N.|award of merit.|In Hollywood, an "Oscar" is the highest accolade.|0|0|
+|accommodate|v.|oblige or help someone; adjust or bring into harmony; adapt.|Mitch always did everything possible to accommodate his elderly relatives, from driving them to medical appointments to helping them with paperwork, (secondary meaning)|0|0|
+|accomplice|N.|partner in crime.|Because he had provided the criminal with the lethal weapon, he was arrested as an accomplice in the murder.|0|0|
+|accord|N.|agreement.|She was in complete accord with the verdict.|0|0|
+|accost|v.|approach and speak first to a person.|When the two young men accosted me, I was frightened because I thought they were going to attack me.|0|0|
+|accoutre|v.|equip.|The fisherman was accoutered with the best that the sporting goods store could supply, accoutrement, N.|0|0|
+|accretion|N.|growth; increase.|Over the years Bob put on weight; because of this accretion of flesh, he went from size M to size XL. accrete, v.|0|0|
+|accrue|v.|come about by addition.|You must pay the interest that has accrued on your debt as well as the principal sum. accrual, N.|0|0|
+|acerbity|N.|bitterness of speech and temper.|The meeting of the United Nations Assembly was marked with such acerbity that observers held little hope of reaching any useful settlement of the problem, acerbic, ADJ.|0|0|
+|acetic|ADJ.|vinegary.|The salad had an exceedingly acetic flavor.|0|0|
+|acidulous|ADJ.|slightly sour; sharp; caustic.|James was unpopular because of his sarcastic and acidulous remarks.|0|0|
+|acknowledge|v.|recognize; admit.|Although I acknowledge that the Beatles' tunes sound pretty dated nowadays, I still prefer them to the gangster rap songs my brothers play.|0|0|
+|acme|N.|peak; pinnacle; highest point.|Welles's success in Citizen Kane marked the acme of his career as an actor; never again did he achieve such popular acclaim.|0|0|
+|acoustics|N.|science of sound; quality that makes a room easy or hard to hear in.|Carnegie Hall is liked by music lovers because of its fine acoustics.|0|0|
+|acquiesce|v.|assent; agree passively.|Although she appeared to acquiesce to her employer's suggestions, I could tell she had reservations about the changes he wanted made, acquiescence, N.; acquiescent, ADJ.|0|0|
+|acquittal|N.|deliverance from a charge.|His acquittal by the jury surprised those who had thought him guilty, acquit, v.|0|0|
+|acrid|ADJ.|sharp; bitterly pungent.|The acrid odor of burnt gunpowder filled the room after the pistol had been fired.|0|0|
+|acrimonious|ADJ.|bitter in words or manner.|The candidate attacked his opponent in highly acrimonious terms, acrimony, N.|0|0|
+|acrophobia|N.|fear of heights.|A born salesman, he could convince someone with a bad case of acrophobia to sign up for a life membership in a sky-diving club.|0|0|
+|actuarial|ADJ.|calculating; pertaining to insurance statistics.|According to recent actuarial tables, life expectancy is greater today than it was a century ago.|0|0|
+|actuate|v.|motivate.|I fail to understand what actuated you to reply to this letter so nastily.|0|0|
+|acuity|N.|sharpness.|In time his youthful acuity of vision failed him, and he needed glasses.|0|0|
+|acumen|N.|mental keenness.|Her business acumen helped her to succeed where others had failed.|0|0|
+|acute|ADJ.|quickly perceptive; keen; brief and severe.|The acute young doctor realized immediately that the gradual deterioration of her patient's once-acute hearing was due to a chronic illness, not an acute one.|0|0|
+|adage|N.|wise saying; proverb.|There is much truth in the old adage about fools and their money.|0|0|
+|adamant|ADJ.|hard; inflexible.|In this movie Branson played the part of a revenge-driven man, adamant in his determination to punish the criminals who destroyed his family, adamancy, N.|0|0|
+|adapt|v.|alter; modify.|Some species of animals have become extinct because they could not adapt to a changing environment.|0|0|
+|ambrosia|N.|food of the gods.|Ambrosia was supposed to give immortality to any human who ate it.|0|0|
+|ambulatory|ADJ.|able to walk; not bedridden.|Calvin was a highly ambulatory patient; not only did he refuse to be confined to bed, but also he insisted on riding his skateboard up and down the halls.|0|0|
+|ameliorate|v.|improve.|Many social workers have attempted to ameliorate the conditions of people living in the slums.|0|0|
+|amenable|ADJ.|readily managed or willing to be led; answerable or accountable legally.|Although the ambassador was usually amenable to friendly suggestions, he balked when we hinted he should pay his parking tickets. As a foreign diplomat, he claimed he was not amenable to minor local laws.|0|0|
+|amend|v.|correct; change, generally for the better.|Hoping to amend his condition, he left Vietnam for the United States.|0|0|
+|amenities|N.|convenient features; courtesies.|In addition to the customary amenities for the business traveler—fax machines, modems, a health club—the hotel offers the services of a butler versed in the social amenities.|0|0|
+|amiable|ADJ.|agreeable; lovable; warmly friendly.|In Little Women, Beth is the amiable daughter whose loving disposition endears her to all who know her.|0|0|
+|amicable|ADJ.|politely friendly; not quarrelsome.|Beth's sister Jo is the hot-tempered tomboy who has a hard time maintaining amicable relationships with those around her. Jo's quarrel with her friend Laurie finally reaches an amicable settlement, but not because Jo turns amiable overnight.|0|0|
+|amiss|ADJ.|wrong; faulty.|Seeing her frown, he wondered if anything were amiss, also ADV.|0|0|
+|amity|N.|friendship.|Student exchange programs such as the Experiment in International Living were established to promote international amity.|0|0|
+|amnesia|N.|loss of memory.|Because she was suffering from amnesia, the police could not get the young girl to identify herself.|0|0|
+|amnesty|N.|pardon.|When his first child was born, the king granted amnesty to all in prison.|0|0|
+|amok||also amuck)|ADV. in a state of rage. The police had to be called in to restrain him after he ran amok in the department store.|0|0|
+|amoral|ADJ.|lacking a moral sense.|The amoral individual lacks a code of ethics; he cannot tell right from wrong. The immoral person can tell right from wrong; he chooses to do something he knows is wrong.|0|0|
+|amorous|ADJ.|moved by sexual love; loving. "|Love them and leave them" was the motto of the amorous Don Juan.|0|0|
+|amorphous|ADJ.|formless; lacking shape or definition.|As soon as we have decided on our itinerary, we shall send you a copy; right now, our plans are still amorphous.|0|0|
+|amphibian|ADJ.|able to live both on land and in water.|Frogs are classified as amphibian, also N. amphitheater   N. oval building with tiers of seats. The spectators in the amphitheater cheered the gladiators.|0|0|
+|ample|ADJ.|abundant.|Bond had ample opportunity to escape. Why, then, did he let us capture him?|0|0|
+|amplify|v.|broaden or clarify by expanding; intensify; make stronger.|Charlie Brown tried to amplify his remarks, but he was drowned out by jeers from the audience. Lucy was smarter: she used a loudspeaker to amplify her voice.|0|0|
+|amputate|v.|cut off part of body; prune.|When the doctors had to amputate Ted Kennedy's leg to prevent the spread of cancer, he did not let the loss of his leg keep him from participating in sports.|0|0|
+|amulet|N.|charm; talisman.|Around her neck she wore the amulet that the witch doctor had given her.|0|0|
+|anachronism|N.|something or someone misplaced in time.|Shakespeare's reference to clocks in Julius Caesar is an anachronism; no clocks existed in Caesar's time. anachronistic, ADJ.|0|0|
+|analgesic|ADJ.|causing insensitivity to pain.|The analgesic qualities of this lotion will provide temporary relief.|0|0|
+|analogous|ADJ.|comparable.|She called our attention to the things that had been done in an analogous situation and recommended that we do the same.|0|0|
+|analogy|N.|similarity; parallelism.|A well-known analogy compares the body's immune system with an army whose defending troops are the lymphocytes or white blood cells.|0|0|
+|anarchist|N.|person who seeks to overturn the established government; advocate of abolishing authority.|Denying she was an anarchist, Katya maintained she wished only to make changes in our government, not to destroy it entirely.|0|0|
+|anarchy|||N. absence of governing body; state of disorder. The assassination of the leaders led to a period of anarchy.|0|0|
+|anathema|N.|solemn curse; someone or something regarded as a curse.|The Ayatolla Khomeini heaped anathema upon "the Great Satan," that is, the United States. To the Ayatolla, America and the West were anathema', he loathed the democratic nations, cursing them in his dying words, anathematize, v.|0|0|
+|ancestry|N.|family descent.|David can trace his ancestry as far back as the seventeenth century, when one of his ancestors was a court trumpeter somewhere in Germany, ancestral, ADJ.|0|0|
+|anchor|v.|secure or fasten firmly; be fixed in place.|We set the post in concrete to anchor it in place, anchorage, N.|0|0|
