@@ -1,7 +1,0 @@
-|automaton|N.|mechanism that imitates actions of humans.|Long before science fiction readers became aware of robots, writers were creating stories of automatons who could outperform humans.|0|0|
-|autonomous|ADJ.|self-governing.|Although   the University of California at Berkeley is just one part of the state university system, in many ways Cal Berkeley is autonomous, for it runs several programs that are not subject to outside control, autonomy, N.|0|0|
-|autopsy|N.|examination of a dead body; postmortem.|The medical examiner ordered an autopsy to determine the cause of death, also v.|0|0|
-|auxiliary|ADJ.|offering or providing help; additional or subsidiary.|To prepare for the emergency, they built an auxiliary power station, also N.|0|0|
-|avalanche|N.|great mass of falling snow and ice.|The park ranger warned the skiers to stay on the main trails, where they would be in no danger of being buried beneath a sudden avalanche.|0|0|
-|avarice|N.|greediness for wealth.|King Midas is a perfect example of avarice; he was so greedy that he wished everything he touched would turn to gold.|0|0|
-|avenge|v.|take vengeance for something (or on behalf of someone).|Hamlet vowed he would avenge his father's murder and punish Claudius for his horrible crime.|0|0|
