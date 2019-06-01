@@ -3,8 +3,8 @@
 |Ballistics|adjective|the science or study of the motion of projectiles, as bullets, shells, or bombs.|He admitted in court that he was not a pathologist and that he did not have any formal training in ballistics or sound.|1|0|
 |Banister|noun|Sometimes banisters. the balustrade of a staircase.|Ben meantime was out in the hall, a stout walking-stick in his hand, hanging over the banister.|1|0|
 |Baptism|noun|(baptismal) a trying or purifying experience or initiation. ||1|0|
-|Bargain||||1|0|
-|Barrel||||1|0|
+|Bargain||an agreement between two or more parties as to what each party will do for the other.||1|0|
+|Barrel|noun|a cylindrical wooden container with slightly bulging sides made of staves hooped together, and with flat, parallel ends.||1|0|
 |Barricade||||1|0|
 |Bayou||(bay - a body of water forming an indentation of the shoreline, larger than a cove but smaller than a gulf.)a marshy arm, inlet, or outlet of a lake, river, etc., usually sluggish or stagnant.||1|0|
 |Beauty||||1|0|
@@ -19,11 +19,10 @@
 |Binocular||||1|0|
 |Blockade||||1|0|
 |Bonus||||1|0|
-|Borrow||||1|0|
-|Borrow||||1|0|
+|Borrow|verb|to take or obtain with the promise to return the same or an equivalent||1|0|
 |Boycott||||1|0|
-|Bribe||||1|0|
-|Brief||||1|0|
+|Bribe|noun|a newly married woman or a woman about to be married.||1|0|
+|Brief|adjective|lasting or taking a short time; of short duration||1|0|
 |Brochure||||1|0|
 |Bureaucracy||||1|0|
 |Burglary||||1|0|
