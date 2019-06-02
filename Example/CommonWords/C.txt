@@ -10,7 +10,7 @@
 |Carpenter||||1|0|
 |Casserole||||1|0|
 |Caught||||1|0|
-|Cease||||1|0|
+|Cease|verb|to stop; discontinue.||1|0|
 |Cemetery||||1|0|
 |Champion||||1|0|
 |Chaos||||1|0|
