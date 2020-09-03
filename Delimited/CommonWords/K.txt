@@ -1,4 +1,4 @@
-|Kama||||0|0|
+|Karma||||0|0|
 |kangaroo||||0|0|
 |keen||||0|0|
 |keep||||0|0|
@@ -27,7 +27,7 @@
 |Knit||||0|0|
 |Knock||||0|0|
 |Know||||0|0|
-|Knowlegde||||0|0|
+|Knowledge||||0|0|
 |Knuckle||||0|0|
 |kvetch||||0|0|
 
